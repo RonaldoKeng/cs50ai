@@ -5,7 +5,7 @@
 
 You can view the full course outline here: https://cs50.harvard.edu/ai/2020/
 
-🧑‍💻 Here are the list of projects I implemented for the course. You may find some of them interesting conceptually. You can view each project's specifications here: https://cs50.harvard.edu/ai/2020/projects
+🧑‍💻 In this repo, you'll find my implementation for the projects in this course. I hope you find some of them interesting conceptually! You can view each project's specifications here: https://cs50.harvard.edu/ai/2020/projects
 
 👇 After completing all of the projects + quizzes, you'll get something that looks like this!
 
